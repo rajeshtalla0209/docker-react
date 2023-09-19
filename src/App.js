@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          al linesEdit <code>this is new project</code> and save to reload.
+           TEiST-travuis-configal linesEdit <code>this is new project</code> and save to reload.
         </p>
         <a
           className="App-link"
