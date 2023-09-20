@@ -11,9 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+          I was changed on the feature branch updated one 
         >
           Learn React
         </a>
