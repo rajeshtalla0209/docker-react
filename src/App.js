@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          I was changed on the feature branch
+          I was changed on the feature branch updated one 
         >
           Learn React
         </a>
