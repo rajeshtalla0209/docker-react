@@ -9,11 +9,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          I was changed on the feature branch updated one 
-        >
-          Learn React
+        <a >     
+                Learn React
         </a>
       </header>
     </div>
