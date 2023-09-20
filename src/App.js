@@ -7,15 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hi There. i have update the code
         </p>
-        <a
-          className="App-link"
-          I was changed on the feature branch updated one 
-        >
-          Learn React
-        </a>
-      </header>
+        </header>
     </div>
   );
 }
