@@ -7,12 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is my new project
+          Hi There. i have update the code. second pull request
         </p>
-        <a >     
-                Learn React
-        </a>
-      </header>
+        </header>
     </div>
   );
 }
